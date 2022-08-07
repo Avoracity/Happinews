@@ -1,0 +1,44 @@
+h1 {
+    border: 2px solid black;
+        color:rgb(216, 202, 77);
+        margin-left:-100px;
+        margin-top: 2px; 
+        font-family:arial;
+        font-size:100px;
+        height:130px;
+        width:550px;
+}  
+h2{border: 2px solid black;
+    text-align: center;
+    font-family:arial;}
+button{
+    background-color:rgb(11, 48, 11);
+    border: 2px solid white;
+    text-align: center;
+    height:40px;
+    width:100px;
+    color:white;
+    margin-left:600px;
+    margin-top: 8px; 
+    font-size:20px;
+    font-weight:50;
+    font-family:arial;
+    border-radius: 8px;
+}
+
+.box1{
+background-color: rgb(11, 48, 11);
+height:400px;
+width:300px;
+margin-left:500px;
+margin-top: 0px;
+}
+.slantedbox{
+    background-color: white;
+    height: 60px;
+    width: 101vw;
+    transform:skewY(-10deg);
+    margin-left:-520px;
+    margin-top: 70px; 
+}
+                
